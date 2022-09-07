@@ -1,0 +1,12 @@
+err      /var/log/my/err.log
+warning  /var/log/my/warning.log
+info     -/var/log/my/info.log
+debug    -/var/log/my/debug.log
+err      /var/log/my/err.log
+warning  /var/log/my/warning.log
+info     -/var/log/my/info.log
+debug    -/var/log/my/debug.log
+err      /var/log/my/err.log
+warning  /var/log/my/warning.log
+info     -/var/log/my/info.log
+debug    -/var/log/my/debug.log
